@@ -1,0 +1,3 @@
+[submodule "android-sunflower"]
+	path = android-sunflower
+	url = https://github.com/googlesamples/android-sunflower.git
