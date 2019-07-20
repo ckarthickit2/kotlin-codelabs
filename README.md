@@ -1,7 +1,7 @@
 # Kotlin Codelabs
 
 - Sample Projects developed during Kotlin Codelabs Exercieses under [here][codelab_url].
-- Kotlin Coroutines codelabs can be found [here][kotlin_coroutines]
+- [Kotlin Coroutines][kotlin_coroutines] codelabs help to start with Coroutines.
 - Demo on [Andorid Architecture Components with Kotlin][android_arch_kotlin]
 ---
 [codelab_url]: https://codelabs.developers.google.com/android-kotlin-fundamentals/
