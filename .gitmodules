@@ -1,3 +1,6 @@
 [submodule "android-sunflower"]
 	path = android-sunflower
 	url = https://github.com/googlesamples/android-sunflower.git
+[submodule "kotlin-coroutines"]
+	path = kotlin-coroutines
+	url = https://github.com/googlecodelabs/kotlin-coroutines.git
